@@ -92,7 +92,7 @@ Topics include:
 - Signal denoising
 - Compression
 - Feature extraction
-- Biomedical or engineering signal analysis
+- Biomedical signal analysis
 
 ## Example Workflow
 
