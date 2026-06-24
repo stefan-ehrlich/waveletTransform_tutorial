@@ -33,16 +33,11 @@ waveletTransform_tutorial/
 
 The tutorials were developed using MATLAB.
 
-Recommended toolboxes:
+Recommended MATLAB toolboxes:
 
 - Wavelet Toolbox
 - Signal Processing Toolbox
 
-Check your installation:
-
-```matlab
-ver
-```
 
 ## Getting Started
 
